@@ -1,2 +1,1 @@
-# Statistics
-Experimental Projects -Sandbox
+# Statistics Learning

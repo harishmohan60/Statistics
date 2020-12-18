@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+*.csv
+RawData/accepted_2007_to_2018Q4.csv
+RawData/Accepted_Loan_Summary.csv
+RawData/churn_data_st.csv
